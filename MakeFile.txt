@@ -1,0 +1,9 @@
+1. enter name github with name
+git congif -- global user.name "name"
+2. enter email github with email
+git config -- global user.email "namemail"
+3.clone .git
+git clone htt://"thead"
+4.git add .
+5. git commit -m "first commit"
+6. git push
